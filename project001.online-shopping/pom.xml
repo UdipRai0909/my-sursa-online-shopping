@@ -11,7 +11,7 @@
 
 	<properties>
 		<javaee.version>8.0.1</javaee.version>
-		<spring.webversion>5.1.8.RELEASE</spring.webversion>
+		<spring.webversion>5.3.18</spring.webversion>
 	</properties>
 
 
